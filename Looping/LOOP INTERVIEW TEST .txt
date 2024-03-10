@@ -1,0 +1,9 @@
+LOOP INTERVIEW TEST 
+
+- Ordering Terkecil / Terbesar 
+- Cari Rata - rata 
+- Cari Nilai yang sering muncul 
+- Buat Frekuensi Kemunculan 
+- Buat deret Bilangan Prima 
+- Buat Palindrom 
+- Buat deret Fibonaci 
